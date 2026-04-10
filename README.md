@@ -8,7 +8,7 @@ This project analyzes cat shelter data to understand how observable characterist
 * Transfer
 * Return to Owner
 
-Using SQL for data aggregation and Tableau for visualization, this project highlights patterns in shelter outcomes and identifies which factors are most associated with successful placements.
+Using SQL for data aggregation this project highlights patterns in shelter outcomes and identifies which factors are most associated with successful placements.
 
 ---
 
