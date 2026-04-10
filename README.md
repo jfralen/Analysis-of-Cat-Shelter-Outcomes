@@ -10,6 +10,8 @@ This project analyzes cat shelter data to understand how observable characterist
 
 Using SQL for data aggregation this project highlights patterns in shelter outcomes and identifies which factors are most associated with successful placements.
 
+Dataset: Data sources from Kaggle: Austin Animal Center Shelter Outcomes
+
 ---
 
 Objectives
