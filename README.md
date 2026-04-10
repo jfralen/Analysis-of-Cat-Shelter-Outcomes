@@ -19,34 +19,6 @@ Objectives
 * Compare adoption vs transfer patterns across groups
 * Evaluate overall **“good outcome” rates** across categories
 
----
-
-Tools Used
-
-* **SQL** (data cleaning, aggregation, probability calculations)
-
----
-
-Repository Structure
-
-```
-cat-shelter-outcome-analysis/
-│
-├── README.md
-├── analysis.md
-│
-├── sql/
-│   ├── color_outcomes.sql
-│   ├── breed_outcomes.sql
-│   └── age_outcomes.sql
-│
-├── outputs/
-│   ├── color_outcomes.csv
-│   ├── breed_outcomes.csv
-│   └── age_outcomes.csv
-
----
-
 Methodology
 
 For each grouping variable (**color, breed, age**), SQL queries were used to calculate:
@@ -108,5 +80,34 @@ Good outcomes are consistently high
 
 * Most groups exceed **90% good outcomes**
 * Indicates strong overall placement success across the shelter system
+
+
+---
+
+Tools Used
+
+* **SQL** (data cleaning, aggregation, probability calculations)
+
+---
+
+Repository Structure
+
+```
+cat-shelter-outcome-analysis/
+│
+├── README.md
+├── analysis.md
+│
+├── sql/
+│   ├── color_outcomes.sql
+│   ├── breed_outcomes.sql
+│   └── age_outcomes.sql
+│
+├── outputs/
+│   ├── color_outcomes.csv
+│   ├── breed_outcomes.csv
+│   └── age_outcomes.csv
+
+---
 
 
