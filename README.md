@@ -98,7 +98,7 @@ Repository Structure
 cat-shelter-outcome-analysis/
 │
 ├── README.md
-├── analysis.md
+├── insights.md
 │
 ├── sql/
 │   ├── color_outcomes.sql
