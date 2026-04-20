@@ -8,7 +8,7 @@ This project analyzes cat shelter data to understand how observable characterist
 * Transfer
 * Return to Owner
 
-Using SQL for data aggregation this project highlights patterns in shelter outcomes and identifies which factors are most associated with successful placements.
+Using SQL for data aggregation and Tableau for visualizations this project highlights patterns in shelter outcomes and identifies which factors are most associated with successful placements.
 
 Dataset: Data sources from Kaggle: Austin Animal Center Shelter Outcomes
 
@@ -89,7 +89,7 @@ Good outcomes are consistently high
 Tools Used
 
 * **SQL** (data cleaning, aggregation, probability calculations)
-
+* **Tableau** (data visualization)
 ---
 
 Repository Structure
@@ -109,6 +109,11 @@ cat-shelter-outcome-analysis/
 │   ├── color_outcomes.csv
 │   ├── breed_outcomes.csv
 │   └── age_outcomes.csv
+│
+├── visualizations/
+│   ├── color_visual.png
+│   ├── age_visual.png
+│   └── breed_visual.png
 
 ---
 
