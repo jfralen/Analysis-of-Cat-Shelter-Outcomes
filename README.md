@@ -45,7 +45,7 @@ Key Findings
 
 Age is the strongest predictor
 
-* Kittens (age 0) & 11 year old cats had the two highest adoption rate (**50.0% & 60%, respectively**) and very low return rates
+* Kittens (age 0) & 11 year old cats had the two highest adoption rate (**50% & 60%, respectively**) and very low return rates
 * Cats aged 1–2 years were more likely to be **transferred (~55%) than adopted**
 * Older cats showed **higher return-to-owner rates**, in some cases exceeding 40%
 
